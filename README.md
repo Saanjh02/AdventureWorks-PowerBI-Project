@@ -111,7 +111,7 @@ The What-If parameter allows users to evaluate how price adjustments could influ
 
 ## 🌎 Geographic Analysis
 
-![Territory Map](Screenshots/Adventureworks_Territory-Map.png)
+![Territory Map](Screenshots/Adventureworks_Terriory-Map.png)
 
 The geographic dashboard provides an interactive view of AdventureWorks performance across different sales territories.
 
